@@ -12,6 +12,6 @@ var arraySign = function (nums) {
 };
 
 /*
-Runtime: 104 ms, faster than 24.02% of JavaScript online submissions for Sign of the Product of an Array.
-Memory Usage: 44 MB, less than 28.58% of JavaScript online submissions for Sign of the Product of an Array.
+Runtime: 81 ms, faster than 63.73% of JavaScript online submissions for Sign of the Product of an Array.
+Memory Usage: 44.5 MB, less than 7.13% of JavaScript online submissions for Sign of the Product of an Array.
 */
