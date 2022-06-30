@@ -13,3 +13,7 @@ impl Solution {
         max
     }
 }
+/*
+Runtime: 3 ms, faster than 22.93% of Rust online submissions for Richest Customer Wealth.
+Memory Usage: 2.1 MB, less than 55.41% of Rust online submissions for Richest Customer Wealth.
+*/
