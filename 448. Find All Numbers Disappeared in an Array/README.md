@@ -1,3 +1,4 @@
+```
 Given an array nums of n integers where nums[i] is in the range [1, n], return an array of all the integers in the range [1, n] that do not appear in nums.
 
  
@@ -19,5 +20,6 @@ Constraints:
     n == nums.length
     1 <= n <= 105
     1 <= nums[i] <= n
-
+```
  
+![image](https://user-images.githubusercontent.com/84540554/194676665-4428f2ca-0234-47df-a485-b75640c6b941.png)
