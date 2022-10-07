@@ -31,3 +31,5 @@ Constraints:
     All the numbers of nums are unique.
 
 ```
+
+![image](https://user-images.githubusercontent.com/84540554/194675757-76835e91-505f-4b5e-ba68-2fdbdc14a976.png)
